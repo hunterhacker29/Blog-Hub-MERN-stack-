@@ -25,8 +25,3 @@
 
 ---
 
-## **Contributors**
-- Advait Jadhav  
-- Ansari Mohd. Mudassir  
-- Kamran Dhopaunkar  
-- Nandani Kadave  
